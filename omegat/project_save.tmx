@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Alas, messianic adventures were not uncommon in those times!</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T220318Z" creationid="welli" creationdate="20180515T220318Z">
+        <seg>Infelizmente, as aventuras messiânicas não eram incomuns naqueles tempos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An appeal to the Jew and the Christian</seg>
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T155644Z" creationid="wellington.ferreira" creationdate="20180515T155644Z">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a land where leaders of resistance movements had regularly been proclaimed king and messiah of Israel by their troops?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T220250Z" creationid="welli" creationdate="20180515T220250Z">
+        <seg>Em uma terra onde líderes de movimentos de resistência tinham sido proclamados regularmente rei e messias de Israel por suas tropas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154507Z" creationid="wellington.ferreira" creationdate="20180515T154507Z">
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214829Z" creationid="welli" creationdate="20180515T214829Z">
         <seg>É de teologia ou psicologia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of them ended in atrocious massacres - from Judas the Galilean, who preached revolt against Rome when Jesus was a child, to Bar-Kokhba.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T220622Z" creationid="welli" creationdate="20180515T220622Z">
+        <seg>Muitos deles terminaram em massacres atrozes - desde Judas, o Galileu, que pregou a revolta contra Roma quando Jesus era criança, até Bar-Kokhba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T215901Z" creationid="welli" creationdate="20180515T215901Z">
         <seg>Ele foi crucificado por isso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When Jesus said that He was the Messiah, was His contention not to have consequences in a land occupied by Roman legions since 66 B.C.?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T220103Z" creationid="welli" creationdate="20180515T220103Z">
+        <seg>Quando Jesus disse que Ele era o Messias, sua alegação não teria consequências em uma terra ocupada por legiões romanas desde 66 aC?</seg>
       </tuv>
     </tu>
     <tu>
