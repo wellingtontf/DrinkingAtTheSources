@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the other hand, the sentence that Jacques Doukhan quotes from Albert Memmi, which causes him obvious hurt - “The converted one is a destroyer and a traitor who deserves any and all punishments” - doesn’t make too much sense here.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T232933Z" creationid="welli" creationdate="20180515T232933Z">
+        <seg>Por outro lado, a frase que Jacques Doukhan cita Albert Memmi, que lhe causa óbvia mágoa - “O convertido é um destruidor e um traidor que merece toda e qualquer punição” - não faz muito sentido aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only two sects survived the Roman massacres of A.D.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T224314Z" creationid="welli" creationdate="20180515T224314Z">
@@ -448,8 +456,8 @@
       <tuv lang="EN">
         <seg>They suffer at times, not only because of the minority phenomenon (which operates here as elsewhere), but also because of the state of war and its dire consequences which continue to rage in the Near East.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180515T232422Z" creationid="welli" creationdate="20180515T232422Z">
-        <seg>Sofrem, às vezes, não apenas por causa do fenômeno da minoria (que opera aqui como em outros lugares), mas também por causa do estado de guerra e de suas terríveis conseqüências que continuam a assolar o Oriente Médio\.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180515T232610Z" creationid="welli" creationdate="20180515T232422Z">
+        <seg>Sofrem, às vezes, não apenas por causa do fenômeno da minoria (que opera aqui como em outros lugares), mas também por causa do estado de guerra e de suas terríveis conseqüências que continuam a assolar o Oriente Próximo.</seg>
       </tuv>
     </tu>
     <tu>
