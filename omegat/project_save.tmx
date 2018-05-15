@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only two sects survived the Roman massacres of A.D.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224314Z" creationid="welli" creationdate="20180515T224314Z">
+        <seg>Apenas duas seitas sobreviveram aos massacres romanos de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or both?</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214834Z" creationid="welli" creationdate="20180515T214834Z">
