@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>134 - the Pharisees and the Christians.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224405Z" creationid="welli" creationdate="20180515T224405Z">
+        <seg>os fariseus e os cristãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>70 and A.D.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224339Z" creationid="welli" creationdate="20180515T224339Z">
+        <seg>70 DC e 134 DC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alas, messianic adventures were not uncommon in those times!</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T220318Z" creationid="welli" creationdate="20180515T220318Z">
@@ -262,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first was to lead the survivors of the Jewish-Roman war in saving the vestiges of the past while awaiting the salvation of Israel.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224509Z" creationid="welli" creationdate="20180515T224509Z">
+        <seg>A primeira foi levar os sobreviventes da guerra judaico-romana a salvar os vestígios do passado enquanto aguardavam a salvação de Israel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The reader will have no difficulty sensing the depth and the complexity of the drama that Jacques Doukhan analyzes in this volume.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214700Z" creationid="welli" creationdate="20180515T214700Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214925Z" creationid="welli" creationdate="20180515T214925Z">
         <seg>O cisma entre Israel e a Igreja está enraizado nas realidades mais profundas da história; não pode ser entendido a menos que se tenha constantemente em mente as perspectivas históricas desse cisma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second was driven from the synagogues by the Pharisees, who eventually assumed monolithic control over Judaism.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224613Z" creationid="welli" creationdate="20180515T224613Z">
+        <seg>O segundo foi expulso das sinagogas pelos fariseus, que acabaram assumindo o controle monolítico do judaísmo.</seg>
       </tuv>
     </tu>
     <tu>
