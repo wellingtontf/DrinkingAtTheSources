@@ -6,6 +6,118 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154514Z" creationid="wellington.ferreira" creationdate="20180515T154514Z">
+        <seg>Capítulo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 10</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154552Z" creationid="wellington.ferreira" creationdate="20180515T154552Z">
+        <seg>Capítulo 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 11</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154600Z" creationid="wellington.ferreira" creationdate="20180515T154600Z">
+        <seg>Capítulo 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 2</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154528Z" creationid="wellington.ferreira" creationdate="20180515T154528Z">
+        <seg>Capítulo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 3</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154530Z" creationid="wellington.ferreira" creationdate="20180515T154530Z">
+        <seg>Capítulo 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 4</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154533Z" creationid="wellington.ferreira" creationdate="20180515T154533Z">
+        <seg>Capítulo 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 5</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154537Z" creationid="wellington.ferreira" creationdate="20180515T154537Z">
+        <seg>Capítulo 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 6</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154542Z" creationid="wellington.ferreira" creationdate="20180515T154542Z">
+        <seg>Capítulo 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 7</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154545Z" creationid="wellington.ferreira" creationdate="20180515T154545Z">
+        <seg>Capítulo 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 8</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154624Z" creationid="wellington.ferreira" creationdate="20180515T154624Z">
+        <seg>Epilogo 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 9</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154549Z" creationid="wellington.ferreira" creationdate="20180515T154549Z">
+        <seg>Capítulo 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Epilogue</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154618Z" creationid="wellington.ferreira" creationdate="20180515T154618Z">
+        <seg>Epílogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Foreword</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154459Z" creationid="wellington.ferreira" creationdate="20180515T154459Z">
+        <seg>Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154507Z" creationid="wellington.ferreira" creationdate="20180515T154507Z">
+        <seg>Introdução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T154055Z" creationid="wellington.ferreira" creationdate="20180515T154055Z">
