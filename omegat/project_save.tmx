@@ -16,8 +16,16 @@
       <tuv lang="EN">
         <seg>70 and A.D.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180515T224339Z" creationid="welli" creationdate="20180515T224339Z">
-        <seg>70 DC e 134 DC</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224817Z" creationid="welli" creationdate="20180515T224339Z">
+        <seg>70 d.C. e 134 d.C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>70.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224807Z" creationid="welli" creationdate="20180515T224709Z">
+        <seg>70 d.C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214925Z" creationid="welli" creationdate="20180515T214925Z">
         <seg>O cisma entre Israel e a Igreja está enraizado nas realidades mais profundas da história; não pode ser entendido a menos que se tenha constantemente em mente as perspectivas históricas desse cisma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The schism between these two groups underwent a change of character after the destruction of the Jerusalem temple in A.D.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180515T224702Z" creationid="welli" creationdate="20180515T224702Z">
+        <seg>O cisma entre esses dois grupos sofreu uma mudança de caráter após a destruição do templo de Jerusalém em </seg>
       </tuv>
     </tu>
     <tu>
