@@ -140,6 +140,14 @@
         <seg>Indíce</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to note their common beginnings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180515T155700Z" creationid="wellington.ferreira" creationdate="20180515T155700Z">
+        <seg>para que notem seus princípios comuns</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
