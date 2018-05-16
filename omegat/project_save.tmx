@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>In Jerusalem thirty-three Christian confessions coexist without anything much in common, unless it be the fact they call themselves Christians.</seg>
       </tuv>
-      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T161601Z" creationid="wellington.ferreira" creationdate="20180516T161601Z">
-        <seg>Em Jerusalém, trinta e três confissões cristãs coexistem sem muito em comum, a menos o fato de se chamarem cristãs..</seg>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T161613Z" creationid="wellington.ferreira" creationdate="20180516T161601Z">
+        <seg>Em Jerusalém, trinta e três confissões cristãs coexistem sem muito em comum, a menos o fato de se chamarem cristãs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +298,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T220250Z" creationid="welli" creationdate="20180515T220250Z">
         <seg>Em uma terra onde líderes de movimentos de resistência tinham sido proclamados regularmente rei e messias de Israel por suas tropas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many ways, a coptic bishop and an American pastor, a Russian Orthodox and a South American Roman Catholic, strike one as less alike than if they had come from distinctly different religious worlds.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T162141Z" creationid="wellington.ferreira" creationdate="20180516T162141Z">
+        <seg>De muitas maneiras, um bispo copta e um pastor norte-americano, um ortodoxo russo e um católico romano sul-americano, são considerados menos parecidos do que se tivessem vindo de mundos religiosos distintos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Their dogmas, their theologies, their religious rites, their cultures, their history, even their calendars vary.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T161633Z" creationid="wellington.ferreira" creationdate="20180516T161633Z">
+        <seg>Seus dogmas, suas teologias, seus ritos religiosos, suas culturas, sua história e até seus calendários variam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, a substantial portion of Jacques Doukhan’s analysis applies to Diaspora conditions.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T155054Z" creationid="wellington.ferreira" creationdate="20180516T155054Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T231601Z" creationid="welli" creationdate="20180515T231601Z">
         <seg>Este livro que Jacques Doukhan oferece para nossa meditação produz um sentimento estranho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To step from one Christian church to another, the observer must take a leap much more considerable than, for instance, to move from a Catholic or a Protestant church to a synagogue in Paris or New York City.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T161738Z" creationid="wellington.ferreira" creationdate="20180516T161738Z">
+        <seg>Para passar de uma igreja cristã para outra, o observador deve dar um salto muito mais considerável do que, por exemplo, passar de uma igreja católica ou protestante para uma sinagoga em Paris ou Nova York.</seg>
       </tuv>
     </tu>
     <tu>
