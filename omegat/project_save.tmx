@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>In the area of religion, in the absence of a supreme magisterium, every Jew creates his or her own personal religion within the rich traditions of the fathers.</seg>
       </tuv>
-      <tuv lang="PT" changeid="wellington.ferreira" changedate="20180516T155027Z" creationid="wellington.ferreira" creationdate="20180516T155027Z">
-        <seg>Na área da religião, na ausência de um magistério supremo, todo judeu cria sua própria religião pessoal dentro das ricas tradições dos pais.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180517T233935Z" creationid="wellington.ferreira" creationdate="20180516T155027Z">
+        <seg>Na área da religião, na ausência de um magistério supremo, todo judeu cria sua própria religião pessoal dentro das ricas tradições dos seus pais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +650,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T233647Z" creationid="welli" creationdate="20180515T233647Z">
         <seg>Essa mudança de atitude torna-se ainda mais significativa à medida que os fariseus continuam a perder o monopólio que detiveram durante 2000 anos sobre a vida espiritual de um povo que conseguiram manter juntos durante os corrosivos séculos no exílio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is very evident concerning the Jews, but it is also true for Christians.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180517T233926Z" creationid="welli" creationdate="20180517T233926Z">
+        <seg>Isso é muito evidente em relação aos judeus, mas também é verdade para os cristãos.</seg>
       </tuv>
     </tu>
     <tu>
