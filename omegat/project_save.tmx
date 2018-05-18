@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should a Foreword advise some sort of caution regarding the theses set forth in the book?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180518T210449Z" creationid="welli" creationdate="20180518T210449Z">
+        <seg>Um prefácio deve aconselhar algum tipo de cautela sobre as teses estabelecidas no livro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should they encourage the reading of the book?</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180518T210250Z" creationid="welli" creationdate="20180518T210250Z">
