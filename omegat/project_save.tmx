@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>And this has not been done by accident, since the beginning and the end of conversion is love.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180519T233340Z" creationid="welli" creationdate="20180519T233340Z">
-        <seg>E isso não foi feito por acaso, desde o começo e o fim da conversão é o amor.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180519T233501Z" creationid="welli" creationdate="20180519T233340Z">
+        <seg>E isso não foi feito por acaso, uma vez que o começo e o fim da conversão é o amor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +386,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180518T205520Z" creationid="welli" creationdate="20180518T205520Z">
         <seg>Eu fiquei muito surpreso no dia quando recebi o manuscrito de Bebendo nas Fontes; até porque eu não conhecia o autor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If conversion does bring one to a “break” in his life, it is to the end that he may love more.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180519T233727Z" creationid="welli" creationdate="20180519T233727Z">
+        <seg>Se a conversão leva a pessoa a uma "ruptura" em sua vida, é para o fim que ele pode amar mais.</seg>
       </tuv>
     </tu>
     <tu>
