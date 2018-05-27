@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>A Cry</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180527T194600Z" creationid="welli" creationdate="20180527T194600Z">
-        <seg>Um lamento</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180527T195623Z" creationid="welli" creationdate="20180527T194600Z">
+        <seg>Um Grito</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +978,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T224613Z" creationid="welli" creationdate="20180515T224613Z">
         <seg>O segundo foi expulso das sinagogas pelos fariseus, que acabaram assumindo o controle monolítico do judaísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The temptation is to cry out in anguish and frustration!</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180527T195604Z" creationid="welli" creationdate="20180527T195604Z">
+        <seg>A tentação é gritar de angústia e frustração!</seg>
       </tuv>
     </tu>
     <tu>
