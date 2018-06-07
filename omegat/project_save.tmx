@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>Bewildered and seemingly beaten in advance, one attempts to muster fresh words and ideas only with the greatest difficulty.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180607T222710Z" creationid="welli" creationdate="20180527T195459Z">
-        <seg>Confuso e aparentemente castigado com antecedência, tenta-se reunir novas palavras e idéias apenas com maior dificuldade.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180607T222727Z" creationid="welli" creationdate="20180527T195459Z">
+        <seg>Confuso e aparentemente castigado com antecedência, tenta-se reunir novas palavras e idéias apenas com maior a dificuldade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="EN">
         <seg>In the same way, Jews and Christians, the one for the other, carry the burden of false labels.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180527T212421Z" creationid="welli" creationdate="20180527T212400Z">
-        <seg>Da mesma forma, Judeus e Cristãos, um pelo outro, carregam o fardo de rótulos falsos.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180607T222924Z" creationid="welli" creationdate="20180527T212400Z">
+        <seg>Da mesma forma Judeus e Cristãos, um pelo outro, carregam o fardo de rótulos falsos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The question posed by Balak torments us.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180607T222959Z" creationid="welli" creationdate="20180607T222959Z">
+        <seg>A questão colocada por Balaque nos atormenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The reader will have no difficulty sensing the depth and the complexity of the drama that Jacques Doukhan analyzes in this volume.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214700Z" creationid="welli" creationdate="20180515T214700Z">
@@ -1274,6 +1282,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180527T193700Z" creationid="welli" creationdate="20180527T193452Z">
         <seg>Devemos dominar as camadas mais profundas de nossa herança, onde veremos novamente a completa riqueza que Deus depositou nessas camadas para nós.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We witness the distress and unfairness of it and can no longer hold in the cry and questioning of our mind and heart.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180607T222943Z" creationid="welli" creationdate="20180607T222943Z">
+        <seg>Nós testemunhamos a angústia e a injustiça disso e não podemos mais segurar o choro e o questionamento de nossa mente e coração.</seg>
       </tuv>
     </tu>
     <tu>
