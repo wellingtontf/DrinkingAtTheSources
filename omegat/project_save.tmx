@@ -1916,6 +1916,14 @@
         <seg>"A mudança do sábado para o domingo como dia de adoração... fez uma escolha entre os dois imperativos.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“You might just as well ask us to deny our being and our God.”</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180617T200009Z" creationid="welli" creationdate="20180617T200009Z">
+        <seg>“Você também pode nos pedir para negar nosso ser e nosso Deus.”</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
