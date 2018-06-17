@@ -1232,8 +1232,8 @@
       <tuv lang="EN">
         <seg>The Christian took his stand with Christ and heaped reproach on the Jew for rejecting Him; the Jew took his stand for the Law, as a means of justifying his refusal.</seg>
       </tuv>
-      <tuv lang="PT" changeid="welli" changedate="20180617T184722Z" creationid="welli" creationdate="20180617T184722Z">
-        <seg>O cristão assumiu sua posição com Cristo e fez vergonha ao judeu por rejeitá-lo; o judeu tomou sua posição pela Lei, como um meio de justificar sua recusa.</seg>
+      <tuv lang="PT" changeid="welli" changedate="20180617T184830Z" creationid="welli" creationdate="20180617T184722Z">
+        <seg>O cristão assumiu sua posição com Cristo e reprovou o judeu por rejeitá-lo; o judeu tomou sua posição pela Lei, como um meio de justificar sua recusa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1762,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180527T202100Z" creationid="welli" creationdate="20180527T202100Z">
         <seg>Qual foi essa terrível verdade que todos sabiam sobre ele, mas que escapou do alcance da vista?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever intrinsic value Truth might have, the Jew could not accept it unless it met the ancient criterion: “To the Law and to the testimony!</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180617T184952Z" creationid="welli" creationdate="20180617T184952Z">
+        <seg>Qualquer que fosse o valor intrínseco que a Verdade pudesse ter, o judeu não poderia aceitá-lo a menos que atendesse ao antigo critério: “À Lei e ao testemunho!</seg>
       </tuv>
     </tu>
     <tu>
