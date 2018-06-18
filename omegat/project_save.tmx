@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is the source of those clever little smiles intended to say more than they do.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180618T010345Z" creationid="welli" creationdate="20180618T010345Z">
+        <seg>Aqui é a fonte daqueles sorrisinhos inteligentes pretendem dizer mais do que eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>His quest takes him beyond mere theology and myth to a future aglow with hope and peace.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180517T235937Z" creationid="welli" creationdate="20180517T235937Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180518T134322Z" creationid="wellington.ferreira" creationdate="20180518T134322Z">
         <seg>Printed in the United States of America  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Psychological AntiSemitism.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="welli" changedate="20180618T010023Z" creationid="welli" creationdate="20180618T010023Z">
+        <seg>Anti-semitismo psicológico.</seg>
       </tuv>
     </tu>
     <tu>
