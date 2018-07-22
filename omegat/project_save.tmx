@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AntiSemitism, according to them, has always existed as part and parcel of Israel’s sinister destiny.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194622Z" creationid="wellingtontf" creationdate="20180722T194622Z">
+        <seg>O anti-semitismo, segundo eles, sempre existiu como parte e parcela do destino sinistro de Israel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AntiSemitism, “the mystery of Israel,” uses also the language of theology.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T232655Z" creationid="welli" creationdate="20180618T232655Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180617T163126Z" creationid="welli" creationdate="20180612T222533Z">
         <seg>Como judeus e cristãos, acreditamos que podemos prosseguir com uma objetividade ainda mais rigorosa do que seria possível em nossa investigação sobre a origem e a natureza desse conflito, que é verdadeiramente como brasas ardentes em nosso peito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As for the Jews, and with them some Christians, they see in antiSemitism an indication of Israel’s election.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194655Z" creationid="wellingtontf" creationdate="20180722T194655Z">
+        <seg>Quanto aos judeus, e com eles alguns cristãos, eles vêem no anti-semitismo uma indicação da eleição de Israel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +770,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellington.ferreira" changedate="20180518T155826Z" creationid="wellington.ferreira" creationdate="20180515T154459Z">
         <seg>Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Jules Isaac40 to Poliakov,41 including Lovsky,42 to mention only the principal authors who have written in the French language,43 one can follow the genesis, then the fluctuations of antiSemitism that have marked both Jewish and world history.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194606Z" creationid="wellingtontf" creationdate="20180722T194606Z">
+        <seg>De Jules Isaac 40 a Poliakov, 41 incluindo Lovsky, 42 para mencionar apenas os principais autores que escreveram em francês, pode-se seguir a gênese, depois as flutuações do anti-semitismo que marcaram tanto a história judaica quanto a mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It really is a pagan instinct which comes to life from time to time.“45</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194652Z" creationid="wellingtontf" creationdate="20180722T194652Z">
+        <seg>É realmente um instinto pagão que vem à vida de tempos em tempos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It seems clear, then, that because of a determination to disassociate itself from the Jews, Christianity rejected the observance of the historic Sabbath.” Nor was it bv chance that all this came to a head in the fourth century - the century of Constantine and the time when the Church became the official religion of the state.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180617T181711Z" creationid="welli" creationdate="20180617T181711Z">
@@ -1482,6 +1514,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T223844Z" creationid="welli" creationdate="20180618T223800Z">
         <seg>Obras literárias geralmente apresentam o judeu como "enganoso e covarde", mas foi deixado para Albert Memmi para revelar o segredo de tudo: "Ninguém me diga que você não pode encontrar cristãos enganadores e covardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lovsky, a Christian theologian, likewise interpreted antiSemitism as “The shadow carried by the mystery of Israel among the nations… just as enduring as the role of Israel in the world.“47</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194700Z" creationid="wellingtontf" creationdate="20180722T194700Z">
+        <seg>Lovsky, um teólogo cristão, também interpretou o anti-semitismo como "a sombra carregada pelo mistério de Israel entre as nações ... tão duradoura quanto o papel de Israel no mundo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The problem of the beginning of antiSemitism has been solved much too quickly and superficially by many Jewish and Christian theologians.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194613Z" creationid="wellingtontf" creationdate="20180722T194613Z">
+        <seg>O problema do início do anti-semitismo foi resolvido muito rapidamente e superficialmente por muitos teólogos judeus e cristãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The question arose in the wake of the bitter separation - when both stood off in total confrontation, hurling accusations and contempt in the name of their Truth.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180617T170047Z" creationid="welli" creationdate="20180617T170047Z">
@@ -2378,6 +2426,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T004938Z" creationid="welli" creationdate="20180618T004938Z">
         <seg>A situação parece incrível!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sporadic persecutions that the Jews suffered at the hands of the pagans have little in common with the perpetual and systematic persecutions perpetrated in the Christian community.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194711Z" creationid="wellingtontf" creationdate="20180722T194711Z">
+        <seg>As perseguições esporádicas que os judeus sofreram nas mãos dos pagãos têm pouco em comum com as perseguições perpétuas e sistemáticas perpetradas na comunidade cristã.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,6 +2554,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180620T002723Z" creationid="welli" creationdate="20180620T002723Z">
         <seg>Houve um começo, um começo lento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, Israel alone must be responsible for it - a reprehensible but convenient way for such theologians to wash their hands of the dirty business.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194632Z" creationid="wellingtontf" creationdate="20180722T194632Z">
+        <seg>Portanto, somente Israel deve ser responsável por isso - uma maneira repreensível, mas conveniente, de tais teólogos lavarem as mãos dos negócios sujos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, over the signature of Rabbi Meyer Jai’s, one can read: “Yahvveh Himself chose Israel to be a messianic and theophoric people, thus making them the object of hostility before the world and the pagan peoples, long before the incarnation, long before the deicide.“46</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194657Z" creationid="wellingtontf" creationdate="20180722T194657Z">
+        <seg>Assim, sobre a assinatura do rabino Meyer Jai, pode-se ler: “O próprio Yahvveh escolheu Israel para ser um povo messiânico e teofórico, tornando-os objeto de hostilidade perante o mundo e os povos pagãos, muito antes da encarnação, muito antes do deicídio. “46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Time and place also play a role.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T231619Z" creationid="welli" creationdate="20180618T231619Z">
@@ -2746,6 +2818,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180527T174319Z" creationid="welli" creationdate="20180527T174319Z">
         <seg>A conversão do pensamento verdadeiro não é um raciocínio por antítese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>True, one must recognize the reality of what has been “pagan antiSemitism.” History records it.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194703Z" creationid="wellingtontf" creationdate="20180722T194703Z">
+        <seg>É verdade que é preciso reconhecer a realidade do que tem sido "anti-semitismo pagão". A história registra isso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,10 +3174,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>“It is a great error,” a Protestant historian categorically proclaims, “to attribute to Christianity a responsibility in present-day antiSemitism, which is several centuries older than Christianity.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194649Z" creationid="wellingtontf" creationdate="20180722T194649Z">
+        <seg>“É um grande erro”, proclama categoricamente um historiador protestante, “atribuir ao cristianismo uma responsabilidade no atual anti-semitismo, que é vários séculos mais antigo que o cristianismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>“It is urgent that Christians cease once and for all to picture the Jew in stereotypes produced by centuries of antagonism.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T002649Z" creationid="welli" creationdate="20180618T002649Z">
         <seg>“É urgente que os cristãos deixem de uma vez por todas imaginar o judeu em estereótipos produzidos por séculos de antagonismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“One must be well aware,” writes a Roman Catholic historian, “that antiSemitism is a state of mind that preexisted Christianity, and for which Christianity is in no way responsible.“44</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194646Z" creationid="wellingtontf" creationdate="20180722T194646Z">
+        <seg>“É preciso estar bem consciente”, escreve um historiador católico romano, “de que o anti-semitismo é um estado de espírito que preexistia o cristianismo, e pelo qual o cristianismo não é de forma alguma responsável” .44</seg>
       </tuv>
     </tu>
     <tu>
