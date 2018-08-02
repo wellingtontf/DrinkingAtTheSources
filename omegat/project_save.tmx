@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(1) The simple method.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211137Z" creationid="wellingtontf" creationdate="20180802T211137Z">
+        <seg>(1) o método simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(2) The synthetic or complementary’ method.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211144Z" creationid="wellingtontf" creationdate="20180802T211144Z">
+        <seg>(2) O método sintético ou complementar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(3) The antithetic method.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211149Z" creationid="wellingtontf" creationdate="20180802T211149Z">
+        <seg>(3) o método antitético.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(4) The chiastic or criss-cross method.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211157Z" creationid="wellingtontf" creationdate="20180802T211157Z">
+        <seg>(4) o método quiástico ou cruzado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(5) The progressive method.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211208Z" creationid="wellingtontf" creationdate="20180802T211208Z">
+        <seg>(5) O método progressivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Compare verses 17-19.)</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T210508Z" creationid="wellingtontf" creationdate="20180722T210508Z">
         <seg>(Compare versículos 17-19.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In an earlier epoch, Philo of Alexandria and Flavius Josephus had already discussed and studied this question; but their observations were strongly influenced by the metrical canon of the Greeks, as were those of Origen, Eusebius, and Jerome.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211233Z" creationid="wellingtontf" creationdate="20180802T211233Z">
+        <seg>(Numa época anterior, Fílon de Alexandria e Flávio Josefo já haviam discutido e estudado essa questão, mas suas observações foram fortemente influenciadas pelo cânon métrico dos gregos, como eram os de Orígenes, Eusébio e Jerônimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>) Afterward, research progressed to the point w here we would not think of studying the Bible seriously while ignorant of such an important principle (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211240Z" creationid="wellingtontf" creationdate="20180802T211240Z">
+        <seg>) Depois, a pesquisa progrediu até o ponto em que não pensamos em estudar a Bíblia seriamente enquanto ignoramos um princípio tão importante (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- decreed in order to save Israel and rejoice with Israel on the day of the resurrection.“106</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200609Z" creationid="wellingtontf" creationdate="20180722T200609Z">
         <seg>- decretou a fim de salvar Israel e se alegrar com Israel no dia da ressurreição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 Chronicles 21:15, 16.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211322Z" creationid="wellingtontf" creationdate="20180802T211322Z">
+        <seg>1 Crônicas 21:15, 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 Chronicles 21:28 to 22:1.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211325Z" creationid="wellingtontf" creationdate="20180802T211325Z">
+        <seg>1 Crônicas 21:28 a 22: 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>196; in the latter midrash, King Messiah is conceived as “that seed which would arise from another source”).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211108Z" creationid="wellingtontf" creationdate="20180802T211108Z">
+        <seg>196; no último midrash, o rei Messias é concebido como "aquela semente que surgiria de outra fonte").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2 Chronicles 36:22, 23 and Ezra 1:1-4) and Darius (cf.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211425Z" creationid="wellingtontf" creationdate="20180722T211425Z">
@@ -130,6 +210,22 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220213Z" creationid="wellingtontf" creationdate="20180801T220213Z">
         <seg>2 João 6; João 14:15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2 Kings 18:1, 9, 10).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211607Z" creationid="wellingtontf" creationdate="20180802T211607Z">
+        <seg>2 Reis 18: 1, 9, 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2 Kings 9 and Hosea 1:4.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211340Z" creationid="wellingtontf" creationdate="20180802T211340Z">
+        <seg>2 Reis 9 e Oséias 1: 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +814,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>According to this last interpretation, circumcision would be an allusion to the ultimate rending of the Creator, who did not hesitate, in order to save man, to “mutilate His very Self.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211801Z" creationid="wellingtontf" creationdate="20180802T211801Z">
+        <seg>De acordo com esta última interpretação, a circuncisão seria uma alusão ao último desmembramento do Criador, que não hesitou, a fim de salvar o homem, de "mutilar Seu próprio Ser".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>According to this passage.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211839Z" creationid="wellingtontf" creationdate="20180802T211839Z">
+        <seg>De acordo com esta passagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acts 22:3, 4.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T212615Z" creationid="wellingtontf" creationdate="20180722T212615Z">
@@ -1278,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And since Artaxerxes acceded to the throne in 46S.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211655Z" creationid="wellingtontf" creationdate="20180802T211655Z">
+        <seg>E desde que Artaxerxes aderiu ao trono em 46S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And that difference is a heavy burden in the midst of people who are ever ready to condemn a stranger.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220607Z" creationid="wellingtontf" creationdate="20180801T220607Z">
@@ -1590,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Archaeology has confirmed this date, since some’ coins have been discovered at Antioch bearing the date 765 of the Roman calendar and reproducing the likeness of Tiberius with an inscription of the significant expression, “Kaisar Sebastos.”</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211853Z" creationid="wellingtontf" creationdate="20180802T211853Z">
+        <seg>Arqueologia confirmou esta data, uma vez que algumas 'moedas foram descobertas em Antioquia com a data 765 do calendário romano e reproduzindo a imagem de Tibério com uma inscrição da expressão significativa,' Kaisar Sebastos '.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are these literal weeks, or “weeks” to be interpreted by a special key?</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211200Z" creationid="wellingtontf" creationdate="20180722T211200Z">
@@ -1658,6 +1786,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180723T220151Z" creationid="wellingtontf" creationdate="20180723T220151Z">
         <seg>Como judeu, a pessoa tinha todos os motivos para aceitar a Jesus e o Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a matter of fact, the Hebrew word Berith Milah would already suggest such an interpretation, Berith Milah means the covenant of cutting, “or more precisely the “cutting of cutting, which is a superlative, the cutting par excellence</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211805Z" creationid="wellingtontf" creationdate="20180802T211805Z">
+        <seg>De fato, a palavra hebraica Berith Milah já sugeriria tal interpretação, Berith Milah significa o pacto de cortar, “ou mais precisamente o“ corte de corte, que é um superlativo, o corte por excelência ”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bereshith Rabbati, on Genesis 37:22.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211111Z" creationid="wellingtontf" creationdate="20180802T211111Z">
+        <seg>Bereshith Rabbati, em Gênesis 37:22.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bethlehem, humility (5:2)</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T204840Z" creationid="wellingtontf" creationdate="20180722T204840Z">
@@ -2194,6 +2338,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180607T222727Z" creationid="welli" creationdate="20180527T195459Z">
         <seg>Confuso e aparentemente castigado com antecedência, tenta-se reunir novas palavras e idéias apenas com maior a dificuldade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beyond circumcision we can catch a glimpse of the various aspects of the Messianic ministry sacrifice, rending, covenant, &lt;t0/&gt;etc.&lt;t1/&gt; at the level of the very Person of the Creator.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211808Z" creationid="wellingtontf" creationdate="20180802T211808Z">
+        <seg>Além da circuncisão, podemos ter um vislumbre dos vários aspectos do sacrifício ministerial messiânico, rending, aliança, &lt;t0/&gt;etc.&lt;t1/&gt; no nível da própria Pessoa do Criador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2506,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T210446Z" creationid="wellingtontf" creationdate="20180722T210446Z">
         <seg>Ambas as passagens, que constituem a estrutura do capítulo, transmitem a preocupação de Daniel pela salvação de Israel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both times there is the same term of Messiah, in the same indefinite grammatical form, which is employed with several intervening words.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211527Z" creationid="wellingtontf" creationdate="20180802T211527Z">
+        <seg>Ambas as vezes há o mesmo termo do Messias, na mesma forma gramatical indefinida, que é empregada com várias palavras intervenientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,6 +2866,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220351Z" creationid="wellingtontf" creationdate="20180801T220351Z">
         <seg>Mas a analogia que existe sugere que há uma preocupação comum nas duas passagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But the circumstantial interpretation does not exclude the messianic application.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210858Z" creationid="wellingtontf" creationdate="20180802T210858Z">
+        <seg>Mas a interpretação circunstancial não exclui a aplicação messiânica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even circumcision could be interpreted in this sense Subsumed under the idea of sacrifice, it appeared in the Old Testament as having the effect of appeasing the anger of God.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211737Z" creationid="wellingtontf" creationdate="20180802T211737Z">
+        <seg>Até mesmo a circuncisão poderia ser interpretada neste sentido Subsumida sob a idéia de sacrifício, ela aparecia no Antigo Testamento como tendo o efeito de apaziguar a ira de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even now as we write, these communities are facing these questions generally with implacable judgments, inflexible dogmas, and deep-seated prejudices.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180527T195114Z" creationid="welli" creationdate="20180527T195114Z">
@@ -4114,6 +4290,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213545Z" creationid="wellingtontf" creationdate="20180801T213545Z">
         <seg>Mesmo o soldado de Roma, o mais baixo do ranking, não poderia alegar inocência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even the meaning of the words can be shaded or changed under the influence of parallelism.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211218Z" creationid="wellingtontf" creationdate="20180802T211218Z">
+        <seg>Até mesmo o significado das palavras pode ser sombreado ou alterado sob a influência do paralelismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exodus 12:43-49; Joshua 5:2-9).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211752Z" creationid="wellingtontf" creationdate="20180802T211752Z">
+        <seg>Êxodo 12: 43-49; Josué 5: 2-9).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exodus 20:8-10; 31:14; Isaiah 56:2).</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180723T215135Z" creationid="wellingtontf" creationdate="20180723T215135Z">
@@ -4302,10 +4494,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exodus 24:8; 34:27; Joshua 9:15; Hosea 2:20; Jeremiah 34:13; etc.) and to the cessation.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211459Z" creationid="wellingtontf" creationdate="20180802T211459Z">
+        <seg>Êxodo 24: 8; 34:27; Josué 9:15; Oséias 2:20; Jeremias 34:13; etc) e à cessação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exodus 26:33, 34).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211410Z" creationid="wellingtontf" creationdate="20180802T211410Z">
+        <seg>Êxodo 26:33, 34).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exodus 28:35.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210827Z" creationid="wellingtontf" creationdate="20180802T210827Z">
         <seg>Êxodo 28:35.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exodus 4:20; Deuteronomy 10:1-5).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211415Z" creationid="wellingtontf" creationdate="20180802T211415Z">
+        <seg>Êxodo 4:20; Deuteronômio 10: 1-5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exodus 4:24-26).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211744Z" creationid="wellingtontf" creationdate="20180802T211744Z">
+        <seg>Êxodo 4: 24-26).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exodus Rabbah 8:1, on Exodus 7:1 (Soncino edition, p.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211042Z" creationid="wellingtontf" creationdate="20180802T211042Z">
+        <seg>Êxodo Rabá 8: 1, em Êxodo 7: 1 (edição Soncino, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exodus Rabbah is one of the component works in the Midrash Rabbah, a series of ten midrashic commentaries on as many books of the Bible, viz., the five books of Moses (Genesis, Exodus, Leviticus, Numbers, and Deuteronomy), and the five Scrolls read publicly on the major Jewish festivals (Song of Songs, Ruth, Lamentations, Ecclesiastes, and Esther).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211046Z" creationid="wellingtontf" creationdate="20180802T211046Z">
+        <seg>Êxodo Rabá é um dos trabalhos componentes do Midrash Rabbah, uma série de dez comentários midrashic em tantos livros da Bíblia, a saber, os cinco livros de Moisés (Gênesis, Êxodo, Levítico, Números e Deuteronômio), e os cinco Pergaminhos são lidos publicamente nas principais festas judaicas (Cântico dos Cânticos, Rute, Lamentações, Eclesiastes e Ester).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4562,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211436Z" creationid="wellingtontf" creationdate="20180722T211436Z">
         <seg>Esdras 7: 12-26) proporcionou, além da restauração do templo, a criação de juízes e magistrados para administrar a vida civil da cidade (ver Esdras 7:24, 25).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ezra tells us, that the decree was promulgated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211707Z" creationid="wellingtontf" creationdate="20180802T211707Z">
+        <seg>Esdras nos conta que o decreto foi promulgado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, by striking man in the place where the vital seed resides, circumcision evokes the Person of the Creator.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211755Z" creationid="wellingtontf" creationdate="20180802T211755Z">
+        <seg>Finalmente, atacando o homem no lugar onde a semente vital reside, a circuncisão evoca a Pessoa do Criador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, each one despised and condemned the other with an unalterable anathema, “You are a stiff-necked heretic!” Hardly ever after the rupture in the fourth century A.D.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214447Z" creationid="wellingtontf" creationdate="20180801T214447Z">
@@ -4454,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flavius Josephus was born A.D.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211732Z" creationid="wellingtontf" creationdate="20180802T211732Z">
+        <seg>Flávio Josefo nasceu AD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Following the sixty-nine weeks, the Messiah would be “cut off.” The remainder of the passage (verse 27) tells us that the Messiah would “cause sacrifice and offering to cease” in the midst of the following week, that is, the seventieth and last of the prophetic period.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211745Z" creationid="wellingtontf" creationdate="20180722T211745Z">
@@ -4514,6 +4778,22 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T195137Z" creationid="wellingtontf" creationdate="20180722T195137Z">
         <seg>Para ele, os judeus representavam a "má consciência" da civilização e a "lebre a ser caçada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For his coming on the foal of an ass, see Baruch Rab, section 13 on Genesis 32:5; Tanhuma on Genesis 32:5; &lt;t0/&gt;etc.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211349Z" creationid="wellingtontf" creationdate="20180802T211349Z">
+        <seg>Para sua vinda no potro de um jumento, veja Baruch Rab, seção 13 de Gênesis 32: 5; Tanhuma em Gênesis 32: 5; &lt;t0/&gt;etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For his coming “on” the clouds, see Numbers Rabbah 13:13-14.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211353Z" creationid="wellingtontf" creationdate="20180802T211353Z">
+        <seg>Para sua vinda "sobre" as nuvens, veja Números Rabá 13: 13-14.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,10 +4886,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the Mishnah as w ell as the Talmud, the year of reign in the Bible must begin in Tishri (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211647Z" creationid="wellingtontf" creationdate="20180802T211647Z">
+        <seg>Para a Mishná, bem como o Talmud, o ano de reinado na Bíblia deve começar em Tishri (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the anti-Semite, intelligence is Jewish; he therefore can scorn it along with the other virtues the Jews possess.“28</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T012004Z" creationid="welli" creationdate="20180618T012004Z">
         <seg>Para o antissemita, a inteligência é judaica; ele, portanto, pode desprezá-lo junto com as outras virtudes que os judeus possuem.“28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the dialectic between Jerusalem and Bethlehem, see the parallelism in Micah, above on pp.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211343Z" creationid="wellingtontf" creationdate="20180802T211343Z">
+        <seg>Para a dialética entre Jerusalém e Belém, veja o paralelismo em Miquéias, acima nas pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4902,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generally speaking, it is the political salvation of Israel, on the occasion of its return from the Exile, which incidentally calls forth an allusion to a greater and deeper salvation - that which would be achieved by the Messiah.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210904Z" creationid="wellingtontf" creationdate="20180802T210904Z">
+        <seg>De modo geral, é a salvação política de Israel, na ocasião de seu retorno do Exílio, que incidentalmente evoca uma alusão a uma salvação maior e mais profunda - aquilo que seria alcançado pelo Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Genese de l’Antisemitisme.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T224031Z" creationid="wellingtontf" creationdate="20180801T224031Z">
@@ -4926,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genesis 22.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211319Z" creationid="wellingtontf" creationdate="20180802T211319Z">
+        <seg>Gênesis 22.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Genesis 2:7.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T224721Z" creationid="wellingtontf" creationdate="20180801T224721Z">
@@ -4942,10 +5254,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genesis 49:10),</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211533Z" creationid="wellingtontf" creationdate="20180802T211533Z">
+        <seg>Gênesis 49:10),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Genesis 49:8-12.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210941Z" creationid="wellingtontf" creationdate="20180802T210941Z">
+        <seg>Gênesis 49: 8-12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Genesis 4:4; Leviticus 4).</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210804Z" creationid="wellingtontf" creationdate="20180802T210804Z">
         <seg>Gênesis 4: 4; Levítico 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Genesis Rabbah 56:16; cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211310Z" creationid="wellingtontf" creationdate="20180802T211310Z">
+        <seg>Gênesis Rabá 56:16; cf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henceforth who will do it?” (Sukkah 55b).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211425Z" creationid="wellingtontf" creationdate="20180802T211425Z">
+        <seg>Daí em diante, quem fará isso? ”(Sukkah 55b).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here again one finds the same diptych (a story from two points of view) effect.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211018Z" creationid="wellingtontf" creationdate="20180722T211018Z">
@@ -5730,6 +6074,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T010728Z" creationid="welli" creationdate="20180618T010619Z">
         <seg>Aqui também está a base para um lamentável vocabulário gerado por nossa atual civilização que, por édito inflexível, coloca o judeu em um atavismo concreto (manifestação de características primitivas de uma família ou raça) do qual ele nunca pode escapar e que ele nunca consiga entender porque não faz sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heshvan, Kislev, Tebeth, Shebat, and Adar).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211622Z" creationid="wellingtontf" creationdate="20180802T211622Z">
+        <seg>Heshvan, Kislev, Tebeth, Shebat e Adar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +6246,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>His work was, however, anticipated by the work of Jewish exegetes, among whom special mention is due to David Kimhi, Levi ben Gershom, and above all to Abraham ibn Ezra.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211226Z" creationid="wellingtontf" creationdate="20180802T211226Z">
+        <seg>Sua obra foi, no entanto, antecipada pelo trabalho de exegetas judeus, entre os quais a menção especial é devida a David Kimhi, Levi ben Gershom e, acima de tudo, a Abraão ibn Ezra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History informs us that Artaxerxes began to reign from the year 465 B.C.E.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211558Z" creationid="wellingtontf" creationdate="20180802T211558Z">
+        <seg>A história nos informa que Artaxerxes começou a reinar a partir do ano 465 aC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History records no example of such a collective suicide.“16</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180617T200534Z" creationid="welli" creationdate="20180617T200534Z">
@@ -6026,6 +6394,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T212800Z" creationid="wellingtontf" creationdate="20180801T212800Z">
         <seg>Por mais plausível que essa interpretação possa parecer, por simples e direta, ela contraria a lógica e o registro de eventos que encontramos no Novo Testamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However that may be, the meaning would hardly be different (to put an end) and the wordplay would be nevertheless preserved.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211403Z" creationid="wellingtontf" creationdate="20180802T211403Z">
+        <seg>Seja como for, o significado dificilmente seria diferente (pôr um fim) e o jogo de palavras seria preservado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to understand a text, it is therefore absolutely indispensable to determine before everything else its literary structure and thereby to reveal the parallelisms which run through it.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211220Z" creationid="wellingtontf" creationdate="20180802T211220Z">
+        <seg>Para entender um texto, é absolutamente indispensável determinar antes de tudo sua estrutura literária e, assim, revelar os paralelismos que a atravessam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, Jews that knew Jesus and Jews that had never before heard of Him.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213029Z" creationid="wellingtontf" creationdate="20180801T213029Z">
@@ -7042,6 +7426,14 @@
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180617T211125Z" creationid="welli" creationdate="20180617T211125Z">
         <seg>Em suma, a questão e o cisma judaicos não teriam existido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that way of thinking we can also explain the relation between circumcision and the Passover lamb - symbol of the grace of God which passes over” ‘ cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211746Z" creationid="wellingtontf" creationdate="20180802T211746Z">
+        <seg>Nesse modo de pensar, podemos também explicar a relação entre a circuncisão e o cordeiro pascal - símbolo da graça de Deus que passa por cima ”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7814,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Isaiah 1 1.13, Micah 5:8).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211723Z" creationid="wellingtontf" creationdate="20180802T211723Z">
+        <seg>Isaías 1 1,13, Miquéias 5: 8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Isaiah 11:1-6.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211058Z" creationid="wellingtontf" creationdate="20180802T211058Z">
+        <seg>Isaías 11: 1-6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Isaiah 44:6; 41:4; 48:12 and Revelation 1:8; 22:13.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220455Z" creationid="wellingtontf" creationdate="20180801T220455Z">
@@ -7506,6 +7914,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T212714Z" creationid="wellingtontf" creationdate="20180722T212714Z">
         <seg>A sabedoria de Israel consistia em colocar “do” antes de “escutar”. Nisto eles proclamaram a primazia da ação sobre a doutrina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It answers to several techniques which are attested in the Bible and which we find in all the literature of the ancient Middle East, notably in that of Ugarit:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211135Z" creationid="wellingtontf" creationdate="20180802T211135Z">
+        <seg>Ele responde a várias técnicas que são atestadas na Bíblia e que encontramos em toda a literatura do antigo Oriente Médio, notavelmente na de Ugarit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7662,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is as if one spoke in the same paragraph, first of a beautiful tree and then a second time of a quite short tree; it is evident that it still remains a statement about the same tree.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211539Z" creationid="wellingtontf" creationdate="20180802T211539Z">
+        <seg>É como se alguém falasse no mesmo parágrafo, primeiro de uma bela árvore e depois de uma segunda vez de uma árvore bem pequena; É evidente que ainda permanece uma afirmação sobre a mesma árvore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is bigger than man’s puny thinking.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T210254Z" creationid="wellingtontf" creationdate="20180722T210254Z">
@@ -7682,6 +8106,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T223551Z" creationid="wellingtontf" creationdate="20180801T223551Z">
         <seg>É especialmente necessário notar a influência das rebeliões judaicas contra o Império Romano e as resultantes perseguições do judaísmo pelos imperadores romanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is explained basically by that primitive tendency of the Hebrew mind to harmonize form with substance.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211124Z" creationid="wellingtontf" creationdate="20180802T211124Z">
+        <seg>É explicado basicamente por essa tendência primitiva da mente hebraica de harmonizar a forma com a substância.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7822,6 +8254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is precisely in the fifth month.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211702Z" creationid="wellingtontf" creationdate="20180802T211702Z">
+        <seg>É precisamente no quinto mês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is rarely possible to make a clear-cut distinction between them in their common enterprise, for they seem to merge confusedly one with the other.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180619T235834Z" creationid="welli" creationdate="20180619T235834Z">
@@ -7834,6 +8274,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200422Z" creationid="wellingtontf" creationdate="20180722T200422Z">
         <seg>Sugere-se, então, que essas duas ações, embora uma fosse uma “mordida” e a outra uma “contusão” ou “esmagamento”, viriam como resultado de um ato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is the moment when Ezra arrives in Jerusalem and finally announces to Israel the terms of the decree, and this became effective from that time on.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211553Z" creationid="wellingtontf" creationdate="20180802T211553Z">
+        <seg>É o momento em que Ezra chega a Jerusalém e finalmente anuncia a Israel os termos do decreto, e isso se torna efetivo a partir de então.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8086,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It undeniably plays a major role in understanding the meaning of the biblical writings.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211216Z" creationid="wellingtontf" creationdate="20180802T211216Z">
+        <seg>Inegavelmente desempenha um papel importante na compreensão do significado dos escritos bíblicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was Jesus they struck in the concentration camps.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T195204Z" creationid="wellingtontf" creationdate="20180722T195204Z">
@@ -8098,6 +8554,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T223411Z" creationid="wellingtontf" creationdate="20180801T223411Z">
         <seg>Não foi fácil ser Israel, mas foi emocionante!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not until the eighteenth century that attention was given in Christian eireles to the esthetic characters of Hebrew poesy.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211223Z" creationid="wellingtontf" creationdate="20180802T211223Z">
+        <seg>Não foi até o século XVIII que a atenção foi dada em Christian eireles aos caracteres estéticos da poesia hebraica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8430,6 +8894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jesus of Nazareth.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211819Z" creationid="wellingtontf" creationdate="20180802T211819Z">
+        <seg>Jesus de Nazaré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jesus offered no resistance.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T212851Z" creationid="wellingtontf" creationdate="20180801T212851Z">
@@ -8474,6 +8946,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213719Z" creationid="wellingtontf" creationdate="20180801T213719Z">
         <seg>Judeus como eles, ele falava sua língua e baseava sua apresentação em seus conhecidos critérios escriturísticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jewish Antiquities 18.3.3 The passage is considered to be among the most securely authentic by all scholars, whether Jewish or Christian(cf Ch.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211812Z" creationid="wellingtontf" creationdate="20180802T211812Z">
+        <seg>Antiguidades Judaicas 18.3.3 A passagem é considerada uma das mais seguras e autênticas por todos os estudiosos, sejam judeus ou cristãos (cf. cap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,6 +9194,22 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180730T225132Z" creationid="wellingtontf" creationdate="20180722T194922Z">
         <seg>Pesquisas laboriosas e notáveis ​​feitas por Marcel Simon, um historiador cristão, levaram-no à conclusão de que “a expansão do antissemitismo eclesiástico data do século IV”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lamentations Rabbah 1:1:16; Midrash on Proverbs 19:19-21; Midrash on Psalm 21:1, 2, &lt;t0/&gt;etc.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210933Z" creationid="wellingtontf" creationdate="20180802T210933Z">
+        <seg>Lamentações Rabá 1: 1: 16; Midrash em Provérbios 19: 19-21; Midrash no Salmo 21: 1, 2, &lt;t0/&gt;etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lamentations Rabbah 34.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211520Z" creationid="wellingtontf" creationdate="20180802T211520Z">
+        <seg>Lamentações Rabá 34.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,6 +9494,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luke 3 1.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211833Z" creationid="wellingtontf" creationdate="20180802T211833Z">
+        <seg>Lucas 3 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luke3:21.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211844Z" creationid="wellingtontf" creationdate="20180802T211844Z">
+        <seg>Lucas 3:21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luke’s extreme care in dating with precision the beginning of the Messiah’s ministry reveals the importance attached to prophetic chronology.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T212340Z" creationid="wellingtontf" creationdate="20180722T212340Z">
@@ -9238,6 +9750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Midrash on Psalm 21:1 - “Just as He names the Messiah by His own name, so will He also name Jerusalem by His own name.”</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211337Z" creationid="wellingtontf" creationdate="20180802T211337Z">
+        <seg>Midrash no Salmo 21: 1 - “Assim como Ele nomeia o Messias pelo Seu próprio nome, também Ele nomeará Jerusalém pelo Seu próprio nome.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Misled and incited by the priests, the cooperation of the people was more or less passive.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213120Z" creationid="wellingtontf" creationdate="20180801T213120Z">
@@ -9322,6 +9842,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200419Z" creationid="wellingtontf" creationdate="20180722T200419Z">
         <seg>Além disso, o jogo de palavras usando o mesmo verbo shuf para caracterizar ambos os ataques tende a substanciar essa explicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moreover, the years of the reign were counted in the Bible beginning with the autumn ‘month of Tishri), following the practice of the Persian system then in force.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211609Z" creationid="wellingtontf" creationdate="20180802T211609Z">
+        <seg>Além disso, os anos do reinado foram contados na Bíblia, começando com o mês de outono de Tishri, seguindo a prática do sistema persa então em vigor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now, for the Bible, the first year of a reign is actually counted from the beginning of the following year (see Jeremiah 25:1 and Daniel 1:1, 2; cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211604Z" creationid="wellingtontf" creationdate="20180802T211604Z">
+        <seg>Agora, para a Bíblia, o primeiro ano de um reinado é realmente contado a partir do começo do ano seguinte (ver Jeremias 25: 1 e Daniel 1: 1, 2; cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now, if the priests felt compelled to resort to such subterfuge, it was due to their fear of the people, whose fondness for Jesus was evident and had to be taken into account.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T212824Z" creationid="wellingtontf" creationdate="20180801T212824Z">
@@ -9794,6 +10330,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T225102Z" creationid="wellingtontf" creationdate="20180801T225102Z">
         <seg>Agora, o verbo usado aqui é precisamente o que é usado para o culto levítico; e poderia ser traduzido: "Eu vou sacrificá-lo". Ele é seguido pelo verbo nagash ("ter acesso a").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbers 15:31; Leviticus 20:17), or, in a broader sense, a massacre f cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211719Z" creationid="wellingtontf" creationdate="20180802T211719Z">
+        <seg>Números 15:31; Levítico 20:17), ou, num sentido mais amplo, um massacre f cf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +10434,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200338Z" creationid="wellingtontf" creationdate="20180722T200338Z">
         <seg>Muitas vezes a serpente é retratada como na guerra contra o próprio Deus: “Naquele dia o Senhor com sua dura e grande e forte espada castigará o Leviatã, a serpente que foge, Leviatã a serpente torcida.” Isaías 27: 1, RSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often what the biblical passage understands from a messianic perspective is concerned equally with a particular historical situation.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210902Z" creationid="wellingtontf" creationdate="20180802T210902Z">
+        <seg>Freqüentemente, o que a passagem bíblica entende de uma perspectiva messiânica diz respeito igualmente a uma situação histórica particular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10750,10 +11302,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parallelism is a literary device which consists of making words, entire phrases, or even chapters correspond to each other in a variable process of reciprocal reference.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211120Z" creationid="wellingtontf" creationdate="20180802T211120Z">
+        <seg>Paralelismo é um artifício literário que consiste em fazer com que palavras, frases inteiras ou mesmo capítulos correspondam entre si em um processo variável de referência recíproca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parallelism is without doubt the literary form which was greatly preferred bv Hebrew poets.145 In a Messianic meditation, Micah the prophet gives us a perfect example of this type of expression.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T204304Z" creationid="wellingtontf" creationdate="20180722T204304Z">
         <seg>O paralelismo é, sem dúvida, a forma literária que foi muito preferida pelos poetas hebreus.145 Numa meditação messiânica, Miquéias, o profeta, nos dá um exemplo perfeito desse tipo de expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parallelism is, however, a form of elaborate repetition which follows rather precise rules.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211133Z" creationid="wellingtontf" creationdate="20180802T211133Z">
+        <seg>O paralelismo é, no entanto, uma forma de repetição elaborada que segue regras bastante precisas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11026,6 +11594,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T203710Z" creationid="wellingtontf" creationdate="20180722T203710Z">
         <seg>O Salmo 2, que a tradição geralmente coloca na categoria messiânica, também alude a essa qualidade particular do Messias.137 O Talmude contém este antigo comentário: “Quanto ao Messias, filho de Davi, (...) o Santo Abençoado dirá a ele: Peça me algo e eu darei a você, porque é dito: Peça de mim, e eu farei das nações sua herança [Salmo 2:81. "138 O Messias, portanto, é o Rei dos reis, o Senhor dos senhores .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Psalm 2:6-10.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211039Z" creationid="wellingtontf" creationdate="20180802T211039Z">
+        <seg>Salmo 2: 6-10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11342,6 +11918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sanhedrin 98b; the Midrashim frequently refer to this verse: Lamentations Rabbah 1:1:16; Midrash Hagadol 158, etc.; Bereshith Rabbati on Genesis 49:10.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211032Z" creationid="wellingtontf" creationdate="20180802T211032Z">
+        <seg>Sanhedrin 98b; os Midrashim freqüentemente se referem a este versículo: Lamentações Rabá 1: 1: 16; Midrash Hagadol 158, etc .; Bereshith Rabbati em Gênesis 49:10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sartre must have felt this was true when he wrote that “anti-Semintism created the present-day Jew.“224</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214141Z" creationid="wellingtontf" creationdate="20180801T214141Z">
@@ -11370,6 +11954,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T212627Z" creationid="wellingtontf" creationdate="20180722T212627Z">
         <seg>Veja Atos 9:22.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Andre Neher, Essence du prophetisme, pp.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210913Z" creationid="wellingtontf" creationdate="20180802T210913Z">
+        <seg>Veja Andre Neher, Essence du prophetisme, pp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11822,6 +12414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some have thus supposed that it is a question of two different Messiahs in the passage.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211522Z" creationid="wellingtontf" creationdate="20180802T211522Z">
+        <seg>Alguns supõem, portanto, que é uma questão de dois Messias diferentes na passagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some see here an allusion to mankind, others to the people of Israel; still others, as shown by the Septuagint translation,92 think this is an allusion to a specific man.93</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200440Z" creationid="wellingtontf" creationdate="20180722T200440Z">
@@ -12150,6 +12750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>T. J. Berakoth 5a; some texts of Numbers Rabbah 18, on Numbers 15:35; Genesis Rabbah 23:5, on Genesis 4:25, Soncino p.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211105Z" creationid="wellingtontf" creationdate="20180802T211105Z">
+        <seg>TJ Berakoth 5a; alguns textos de Números Rabá 18, em Números 15:35; Gênesis Rabá 23: 5, em Gênesis 4:25, Soncino p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T214128Z" creationid="wellington.ferreira" creationdate="20180515T154055Z">
@@ -12162,6 +12770,30 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200346Z" creationid="wellingtontf" creationdate="20180722T200346Z">
         <seg>A exegese talmúdica, com Sforno como um representante típico, considera a serpente como o "mal", o "sedutor", etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Targum on Isaiah 9:5.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210945Z" creationid="wellingtontf" creationdate="20180802T210945Z">
+        <seg>Targum em Isaías 9: 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Targum on Jeremiah 23:5, 6.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210939Z" creationid="wellingtontf" creationdate="20180802T210939Z">
+        <seg>Targum em Jeremias 23: 5, 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tehillim Rabbati (Rabbi Mosheh Hadarshan) on Psalm 85.12.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211118Z" creationid="wellingtontf" creationdate="20180802T211118Z">
+        <seg>Tehillim Rabbati (Rabi Mosheh Hadarshan) sobre o Salmo 85.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12218,6 +12850,22 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211230Z" creationid="wellingtontf" creationdate="20180722T211230Z">
         <seg>Essa chave de conversão era obviamente conhecida por Daniel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That fifteenth year must be counted beginning in 765 (year 12 in our reckoning), the date of which Augustus caused it to be voted by the Senate and the Horn an people as the law of the empire that Tiberius would be his equal .it the head of the Roman Empire.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211848Z" creationid="wellingtontf" creationdate="20180802T211848Z">
+        <seg>Esse décimo quinto ano deve ser contado a partir de 765 (ano 12 em nossa contagem), a data em que Augusto fez com que fosse votado pelo Senado e pelo Chifre um povo como a lei do império que Tibério seria igual a ele. cabeça do Império Romano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is the year of his accession to the throne.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211601Z" creationid="wellingtontf" creationdate="20180802T211601Z">
+        <seg>Esse é o ano de sua ascensão ao trono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12282,6 +12930,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220406Z" creationid="wellingtontf" creationdate="20180801T220406Z">
         <seg>Que essas duas "verdades" - o sábado e a vinda do Senhor - deveriam estar juntas no Antigo e no Novo Testamento não é de modo algum surpreendente; eles simplesmente expressam a mesma fé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That this paragraph can only refer to the Messiah can be seen by the following observations: (1) the presence of the theme of the weeks, a key word associated with the Messiah; (2) its conformity to the chiastic pattern of the passage (Messiah - Jerusalem - Messiah - Jerusalem - Messiah - Jerusalem); (3) finally, the ideas of covenant (Berith) and of cessation of offerings (Yashbit), taking up the ideas expressed through the verbykaret of the preceding messianic paragraph (Ai), constituting therefore an additional indicator according to which A2 is arranged on the same plan as Ai and continues it.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211447Z" creationid="wellingtontf" creationdate="20180802T211447Z">
+        <seg>Que este parágrafo só pode se referir ao Messias pode ser visto pelas seguintes observações: (1) a presença do tema das semanas, uma palavra-chave associada ao Messias; (2) sua conformidade com o padrão quiástico da passagem (Messias - Jerusalém - Messias - Jerusalém - Messias - Jerusalém); (3) finalmente, as idéias de aliança (Berith) e de cessação de ofertas (Yashbit), assumindo as idéias expressas através do verbykaret do parágrafo messiânico precedente (Ai), constituindo assim um indicador adicional de acordo com o qual A2 é organizado em o mesmo plano que Ai e continua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12666,6 +13322,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T215544Z" creationid="wellingtontf" creationdate="20180801T215544Z">
         <seg>O profeta hebreu falou porque a obrigação foi colocada sobre ele para fazê-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Hebrew verb follows closely the out pouring of thought and feeling and thus gives the impression of an impulsive discharge by successive surges.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211127Z" creationid="wellingtontf" creationdate="20180802T211127Z">
+        <seg>O verbo hebraico segue de perto o derramar do pensamento e do sentimento e, assim, dá a impressão de uma descarga impulsiva por surtos sucessivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13094,6 +13758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Masoretic marginal reading proposes for the first proposition the reading HTM and not KHTM, as the written text indicates.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211400Z" creationid="wellingtontf" creationdate="20180802T211400Z">
+        <seg>A leitura marginal massorética propõe para a primeira proposição a leitura HTM e não KHTM, como indica o texto escrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Messiah King.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T203549Z" creationid="wellingtontf" creationdate="20180722T203549Z">
@@ -13242,6 +13914,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213251Z" creationid="wellingtontf" creationdate="20180801T213251Z">
         <seg>Os transeuntes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Peshitta is a translation in the Syriac language written about the second century A.D.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211438Z" creationid="wellingtontf" creationdate="20180802T211438Z">
+        <seg>A Peshitta é uma tradução na língua siríaca escrita sobre o segundo século dC</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,6 +14454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The date which the biblical account provides for the decree of Artaxerxes is pinpointed in Ezra 7:8.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211546Z" creationid="wellingtontf" creationdate="20180802T211546Z">
+        <seg>A data que o relato bíblico fornece para o decreto de Artaxerxes é identificada em Esdras 7: 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The death of the Messiah was to cause sacrifices and offerings to cease.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180723T215731Z" creationid="wellingtontf" creationdate="20180723T215731Z">
@@ -13966,6 +14654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The expression ayn lo appears to be a contraction of the expression which is found elsewhere in the book of Daniel (Daniel 11:45): ayn ozer lo, and which means “no one to help him.”</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211430Z" creationid="wellingtontf" creationdate="20180802T211430Z">
+        <seg>A expressão ayn lo parece ser uma contração da expressão que é encontrada em outro lugar no livro de Daniel (Daniel 11:45): ayn ozer lo, e que significa "ninguém para ajudá-lo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The expression became a greeting.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213809Z" creationid="wellingtontf" creationdate="20180801T213809Z">
@@ -13978,6 +14674,22 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T224310Z" creationid="wellingtontf" creationdate="20180801T224310Z">
         <seg>A expressão é de Lutero, que, depois de uma notável amizade com os judeus durante sua carreira anterior, virou-se violentamente contra eles em seu período posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fact is that it unfolds in a concentric manner and in that way is led to repeat the same theme, to specify it, to develop it, and to compass it in all its aspects.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211130Z" creationid="wellingtontf" creationdate="20180802T211130Z">
+        <seg>O fato é que ele se desdobra de maneira concêntrica e, desse modo, é levado a repetir o mesmo tema, especificá-lo, desenvolvê-lo e balizá-lo em todos os seus aspectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fact that this qualifying word does not occur the second time ought not to be taken into consideration in order to conclude that the author is abruptly speaking of a new Messiah.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211535Z" creationid="wellingtontf" creationdate="20180802T211535Z">
+        <seg>O fato de que essa palavra qualificadora não ocorra na segunda vez não deve ser levado em consideração para se concluir que o autor está abruptamente falando de um novo Messias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14770,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211136Z" creationid="wellingtontf" creationdate="20180722T211136Z">
         <seg>A primeira é acabar com a transgressão, pôr fim ao pecado, expiar a iniqüidade - tudo isso leva ao aparecimento de um Messias predestinado a ser cortado e a fazer cessar o sacrifício e a oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first month was that of Nisan (month of the Passover; see Ezra 6:19); so the fifth month takes us to Ab: it is the end of the summer of 457 B.C.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211712Z" creationid="wellingtontf" creationdate="20180802T211712Z">
+        <seg>O primeiro mês foi o de Nisan (mês da Páscoa; veja Esdras 6:19); então o quinto mês nos leva a Ab: é o fim do verão de 457 aC</seg>
       </tuv>
     </tu>
     <tu>
@@ -14190,6 +14910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The holy of holies (qodesh qodashim) is the technical term which in the Hebrew Bible designates this apartment of the Temple (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211405Z" creationid="wellingtontf" creationdate="20180802T211405Z">
+        <seg>O santo dos santos (qodesh qodashim) é o termo técnico que na Bíblia Hebraica designa este apartamento do Templo (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The image is always imprecise, out of focus, and varied according to the individuals, groups, and countries involved.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T231600Z" creationid="welli" creationdate="20180618T231600Z">
@@ -14226,6 +14954,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T210420Z" creationid="wellingtontf" creationdate="20180722T210420Z">
         <seg>A implicação é importante e deve ser encarada com o devido respeito pelas regras da interpretação profética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The importance of parallelism is considerable.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211214Z" creationid="wellingtontf" creationdate="20180802T211214Z">
+        <seg>A importância do paralelismo é considerável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14758,6 +15494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The proof is that lamentation for the destruction of the Temple which is reported to us in the Talmud: “Woe to the peoples; great is their ruin.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211419Z" creationid="wellingtontf" creationdate="20180802T211419Z">
+        <seg>A prova é aquela lamentação pela destruição do Templo que nos é relatada no Talmude: “Ai dos povos; grande é a ruína deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The proof was very simple: Jesus of Nazareth was the Messiah of the Christians!</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214112Z" creationid="wellingtontf" creationdate="20180801T214112Z">
@@ -15014,6 +15758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same thought is expressed in a manner increasingly more and more intense and more specific (Psalm 29:1); see Daniel 9:25, 26, on p.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211211Z" creationid="wellingtontf" creationdate="20180802T211211Z">
+        <seg>O mesmo pensamento é expresso de uma maneira cada vez mais e mais intensa e mais específica (Salmo 29: 1); veja Daniel 9:25, 26, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same thought pattern is to be found at the end of Romans 7.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180723T215232Z" creationid="wellingtontf" creationdate="20180723T215232Z">
@@ -15078,10 +15830,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second stich completes the idea of the first (Psalm 1:2); see Daniel 9:24, pp.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211147Z" creationid="wellingtontf" creationdate="20180802T211147Z">
+        <seg>O segundo stich conclui a idéia do primeiro (Salmos 1: 2); veja Daniel 9:24, pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second stich repeats the first in synonymous terms (Genesis 4:23); see Isaiah 27:1, above p.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211140Z" creationid="wellingtontf" creationdate="20180802T211140Z">
+        <seg>O segundo stich repete o primeiro em termos sinônimos (Gênesis 4:23); veja Isaías 27: 1, acima p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second was driven from the synagogues by the Pharisees, who eventually assumed monolithic control over Judaism.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T224613Z" creationid="welli" creationdate="20180515T224613Z">
         <seg>O segundo foi expulso das sinagogas pelos fariseus, que acabaram assumindo o controle monolítico do judaísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The seed or shoot is one of the most dominant images in the Rabbinic literature for evoking the person of the Messiah (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211103Z" creationid="wellingtontf" creationdate="20180802T211103Z">
+        <seg>A semente ou broto é uma das imagens mais dominantes na literatura rabínica por evocar a pessoa do Messias (cf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15098,6 +15874,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T205239Z" creationid="wellingtontf" creationdate="20180722T205239Z">
         <seg>A separação foi tão grande que a comunicação com Deus não era mais possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The seventy weeks are in these writings converted to 490 years, a period they also have terminating at the coming of the “Teacher of Righteousness”:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211508Z" creationid="wellingtontf" creationdate="20180802T211508Z">
+        <seg>As setenta semanas estão nestes escritos convertidos em 490 anos, um período que eles também encerram na vinda do “Mestre da Justiça”:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15954,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T194711Z" creationid="wellingtontf" creationdate="20180722T194711Z">
         <seg>As perseguições esporádicas que os judeus sofreram nas mãos dos pagãos têm pouco em comum com as perseguições perpétuas e sistemáticas perpetradas na comunidade cristã.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard English translation is published by the Soncino Press, but there are variant texts.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211055Z" creationid="wellingtontf" creationdate="20180802T211055Z">
+        <seg>A tradução inglesa padrão é publicada pela Soncino Press, mas existem textos variantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +16222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two expressions criss-cross each other, suggesting the form of the Greek letter Chi, (Genesis 9:6); see Micah 4:8 and 5:3b; 5:1; 4:14, on pp.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211200Z" creationid="wellingtontf" creationdate="20180802T211200Z">
+        <seg>As duas expressões se entrecruzam, sugerindo a forma da letra grega Chi (Gênesis 9: 6); veja Miquéias 4: 8 e 5: 3b; 5: 1; 4:14, nas pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two faces of the Messiah portray two opposites so great that some have reached the conclusion that two Messiahs must appear with different vocations.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T202256Z" creationid="wellingtontf" creationdate="20180722T202256Z">
@@ -15494,10 +16294,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The use of the verb ykaret is very suggestive in this connection.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211714Z" creationid="wellingtontf" creationdate="20180802T211714Z">
+        <seg>O uso do verbo ykaret é muito sugestivo nessa conexão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vanity of such polemics must be evident to all.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T200120Z" creationid="wellingtontf" creationdate="20180722T200120Z">
         <seg>A vaidade de tais polêmicas deve ser evidente para todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The verb is regularly used in the Bible to designate the execution of an offender ‘cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211717Z" creationid="wellingtontf" creationdate="20180802T211717Z">
+        <seg>O verbo é regularmente usado na Bíblia para designar a execução de um ofensor 'cf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15534,6 +16350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word KRT (cut off) is in fact an allusion at the same time to the covenant (KRT is precisely the technical word which expresses the ratification of the covenant; cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211454Z" creationid="wellingtontf" creationdate="20180802T211454Z">
+        <seg>A palavra KRT (cortar) é de fato uma alusão ao mesmo tempo ao pacto (KRT é precisamente a palavra técnica que expressa a ratificação da aliança; cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word from Caiaphas that it was to their advantage that one man should die to save the nation must be understood in the light of the stark reality of Roman repression, which, according to Tacitus, was responsible for 600,000 crucified victims.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180515T222654Z" creationid="welli" creationdate="20180515T222654Z">
@@ -15546,6 +16370,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T224724Z" creationid="wellingtontf" creationdate="20180801T224724Z">
         <seg>A palavra nephesh, que geralmente é traduzida como “alma”, e que é usada igualmente para seres humanos ou para animais (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word ykaret already contains in Ai the two theological meanings of the death of the Messiah - which we found explained in A2 as confirming the covenant by His sacrifice - and at the same time of the end of the sacrifices.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211503Z" creationid="wellingtontf" creationdate="20180802T211503Z">
+        <seg>A palavra ykaret já contém em Ai os dois significados teológicos da morte do Messias - que encontramos explicados em A2 como confirmando o pacto pelo Seu sacrifício - e ao mesmo tempo do fim dos sacrifícios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +16942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These works are divided into traditional chapters and sections, which do not necessarily correspond to the chapters and verses of the biblical books being expounded.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211051Z" creationid="wellingtontf" creationdate="20180802T211051Z">
+        <seg>Essas obras são divididas em capítulos e seções tradicionais, que não correspondem necessariamente aos capítulos e versículos dos livros bíblicos que estão sendo expostos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They also represent in substance that profession of faith par excellence in the God whom Scripture defines as “the beginning and the end,” “the first and the last,” “the alpha and the omega.” Cf.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220502Z" creationid="wellingtontf" creationdate="20180801T220502Z">
@@ -16134,6 +16974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are sometimes referred to by their Hebrew names; thus Exodus Rabbah may be called Shemoth Rabbah.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211049Z" creationid="wellingtontf" creationdate="20180802T211049Z">
+        <seg>Às vezes são referidos por seus nomes hebraicos; assim Êxodo Rabá pode ser chamado de Shemoth Rabá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They arrested Jesus and incited the people to shout “Crucify him!” Mark 15:11.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T212931Z" creationid="wellingtontf" creationdate="20180801T212931Z">
@@ -16154,6 +17002,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T205947Z" creationid="wellingtontf" creationdate="20180722T205947Z">
         <seg>Eles continuaram seu curso avançado para encontrar o Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They do not know what they have lost.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211422Z" creationid="wellingtontf" creationdate="20180802T211422Z">
+        <seg>Eles não sabem o que perderam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16430,6 +17286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This brings us “to the fifth month of the seventh year of Artaxerxes.”</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211550Z" creationid="wellingtontf" creationdate="20180802T211550Z">
+        <seg>Isso nos traz “ao quinto mês do sétimo ano de Artaxerxes”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This came to be known as so-called “Christian charity.”</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T213930Z" creationid="wellingtontf" creationdate="20180801T213930Z">
@@ -16558,6 +17422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This explains why, for example, in Nehemiah 1:1 and 2:1 the month of Nisan (first month) is preceded by Kislev (ninth month), all the time referring to the same twentieth year of the reign of Artaxerxes (the traditional Jewish calendar begins with Passover in the month of Nisan; then come the months of Iyyar, Sivan, Tammuz, Ah, Elul, Tishri.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211614Z" creationid="wellingtontf" creationdate="20180802T211614Z">
+        <seg>Isso explica por que, por exemplo, em Neemias 1: 1 e 2: 1 o mês de nisã (primeiro mês) é precedido por Kislev (nono mês), sempre referindo-se ao mesmo vigésimo ano do reinado de Artaxerxes (o tradicional O calendário judaico começa com a Páscoa no mês de Nisan, depois vêm os meses de Iyyar, Sivan, Tammuz, Ah, Elul, Tishri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This faith alone can envision the true revolution: a total restructuring of this present world in order to establish a new one, in which will come together in a new way, end and origin, alpha and omega.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T220429Z" creationid="wellingtontf" creationdate="20180801T220429Z">
@@ -16630,6 +17502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is equally the case with Genesis 1 and 2 (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211252Z" creationid="wellingtontf" creationdate="20180802T211252Z">
+        <seg>Este é igualmente o caso de Gênesis 1 e 2 (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is nothing short of a challenge to history, a wager on man and on the power of God, a message addressed to our sense of responsibility.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214938Z" creationid="wellingtontf" creationdate="20180801T214938Z">
@@ -16670,10 +17550,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the common designation of God in the Rabbinic literature.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210918Z" creationid="wellingtontf" creationdate="20180802T210918Z">
+        <seg>Esta é a designação comum de Deus na literatura rabínica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the covenant which I will make with the house of Israel after those days, says the Lord: I will put my law within them, and I will write it upon their hearts; and I will be their God, and they shall be my people.” Jeremiah 31:31-33.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180723T214701Z" creationid="wellingtontf" creationdate="20180723T214701Z">
         <seg>Este é o pacto que farei com a casa de Israel, depois daqueles dias, diz o Senhor: Porei a minha lei neles e escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo. ”Jeremias 31: 31-33.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the explanation of the episode concerning Moses (the bloody husband i.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211739Z" creationid="wellingtontf" creationdate="20180802T211739Z">
+        <seg>Esta é a explicação do episódio sobre Moisés (o marido sanguinário i.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +17622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This last passage identifies the star that comes out of Jacob, prophesied by Balaam in Numbers 24:17, with this Shilo, &lt;t0/&gt;i.e.&lt;t1/&gt; the Messiah.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211036Z" creationid="wellingtontf" creationdate="20180802T211036Z">
+        <seg>Esta última passagem identifica a estrela que sai de Jacó, profetizada por Balaão em Números 24:17, com este Shilo, &lt;t0/&gt;ou seja&lt;t1/&gt; o Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This leads us to place the execution of the Messiah in the spring of A.D.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T211912Z" creationid="wellingtontf" creationdate="20180722T211912Z">
@@ -16762,6 +17666,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T201216Z" creationid="wellingtontf" creationdate="20180722T201216Z">
         <seg>Este ministério, que incluía simultaneamente os papéis de intercessor e mediador, predestinou o cohen a ser considerado um dos antítipos do Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mode of interpretation is also found in the Essene writings of the Dead Sea manuscripts.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211505Z" creationid="wellingtontf" creationdate="20180802T211505Z">
+        <seg>Esse modo de interpretação também é encontrado nos escritos essênios dos manuscritos do Mar Morto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16806,6 +17718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This probably comes from the word shalwah, which means peace, serenity.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211029Z" creationid="wellingtontf" creationdate="20180802T211029Z">
+        <seg>Isso provavelmente vem da palavra shalwah, que significa paz, serenidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This process in which man destroys his God is a slow one.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T215414Z" creationid="wellingtontf" creationdate="20180801T215414Z">
@@ -16818,6 +17738,30 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T210413Z" creationid="wellingtontf" creationdate="20180722T210413Z">
         <seg>Esta profecia parece indicar uma data precisa para a vinda do anunciado Messias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This punctuation goes back to the tenth century of our era.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211434Z" creationid="wellingtontf" creationdate="20180802T211434Z">
+        <seg>Esta pontuação remonta ao século X da nossa era.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This refers to the covering of the Ark of the Covenant, the box or chest containing the tables of the Law (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211412Z" creationid="wellingtontf" creationdate="20180802T211412Z">
+        <seg>Isso se refere à cobertura da Arca da Aliança, a caixa ou o baú contendo as tábuas da Lei (cf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relationship has been noted in the Mishnah: “Great is circumcision, for without it the world would not have been created (Nedarim 311).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211758Z" creationid="wellingtontf" creationdate="20180802T211758Z">
+        <seg>Essa relação foi notada na Mishná: “Grande é a circuncisão, pois sem ela o mundo não teria sido criado (Nedarim 311).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17694,6 +18638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two contrary expression are placed together in order to make them produce a contrast (Proverbs 10:1); see Micah 4 and 5, on pp.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211152Z" creationid="wellingtontf" creationdate="20180802T211152Z">
+        <seg>Duas expressões contrárias são colocadas juntas a fim de fazê-las produzir um contraste (Provérbios 10: 1); veja Miquéias 4 e 5, nas pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two dangers lie in wait for the Jew.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214720Z" creationid="wellingtontf" creationdate="20180801T214720Z">
@@ -17998,6 +18950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are here confronted by a conception of time peculiar to the Hebrew mind, whereby two different epochs are embraced by one glance.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210907Z" creationid="wellingtontf" creationdate="20180802T210907Z">
+        <seg>Estamos aqui confrontados por uma concepção de tempo peculiar à mente hebraica, em que duas épocas diferentes são abraçadas por um único olhar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We are no longer dealing with an idea - a theological opinion - but with a manner of life.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T004200Z" creationid="welli" creationdate="20180618T004200Z">
@@ -18234,6 +19194,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180722T195552Z" creationid="wellingtontf" creationdate="20180722T195552Z">
         <seg>O que mais podiam eles fazer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What happens is that the inspired prophet in vision transcends his own time so as to enter into the time of God, which calls him.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T210909Z" creationid="wellingtontf" creationdate="20180802T210909Z">
+        <seg>O que acontece é que o profeta inspirado na visão transcende seu próprio tempo para entrar no tempo de Deus, que o chama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18546,6 +19514,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214054Z" creationid="wellingtontf" creationdate="20180801T214054Z">
         <seg>Enquanto o cristianismo se retirou dele, mesmo se colocando em oposição a ele, o judaísmo partiu na direção oposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the Temple stood, the altar made expiation for them.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211427Z" creationid="wellingtontf" creationdate="20180802T211427Z">
+        <seg>Enquanto o Templo permanecia, o altar fez expiação por eles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18966,6 +19942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yoma 10a, Sanhedrin 18b, Sukkah 52b, Song of Songs Rabbah 8, etc.; Targum of Jonathan on Micah 4:7, 8; Micah 5:1; &lt;t0/&gt;etc.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211306Z" creationid="wellingtontf" creationdate="20180802T211306Z">
+        <seg>Yoma 10a, Sanhedrin 18b, Sukkah 52b, Cântico dos Cânticos Rabbah 8, etc .; Targum de Jonathan em Miquéias 4: 7, 8; Miquéias 5: 1; &lt;t0/&gt;etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You might think that is a quality.</seg>
       </tuv>
       <tuv lang="PT" changeid="welli" changedate="20180618T012130Z" creationid="welli" creationdate="20180618T012130Z">
@@ -18998,10 +19982,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>also Midrash on Psalm 126:3.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211316Z" creationid="wellingtontf" creationdate="20180802T211316Z">
+        <seg>também Midrash no Salmo 126: 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>also U. Cassuto, A Commentary on the Book of Genesis, pp.</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T224010Z" creationid="wellingtontf" creationdate="20180801T224010Z">
         <seg>também U. Cassuto, Um comentário sobre o livro de Gênesis, pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>also the commentary in Hebrew of Hartom-Cassuto on the verse in Nehemiah 1:1).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211651Z" creationid="wellingtontf" creationdate="20180802T211651Z">
+        <seg>também o comentário em hebraico de Hartom-Cassuto sobre o verso em Neemias 1: 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19026,6 +20026,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T225009Z" creationid="wellingtontf" creationdate="20180801T225009Z">
         <seg>e colocado em escrita no segundo século EC) e o comentário sobre ele, o Gemara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>especially articles on Hebrew poetry in the better Bible dictionaries: G. B. Gray, The Forms of the Hebrew Poetry ; Martin Buber, Schriften zur Bihel.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211247Z" creationid="wellingtontf" creationdate="20180802T211247Z">
+        <seg>especialmente artigos sobre poesia hebraica nos melhores dicionários bíblicos: GB Gray, The Forms of the Hebrew Poetry; Martin Buber, Schriften zur Bihel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19062,10 +20070,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>it is necessary to place his first regnal year from the autumn of 464 to the autumn of 463 and his seventh year therefore from autumn 458 to autumn 457.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211659Z" creationid="wellingtontf" creationdate="20180802T211659Z">
+        <seg>é necessário colocar seu primeiro ano de reinado a partir do outono de 464 até o outono de 463 e seu sétimo ano, portanto, do outono de 458 até o outono de 457.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>note 145 on parallelism.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211357Z" creationid="wellingtontf" creationdate="20180802T211357Z">
+        <seg>nota 145 sobre paralelismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>note 172.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211544Z" creationid="wellingtontf" creationdate="20180802T211544Z">
+        <seg>nota 172.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the Targum of Jonathan in its version of the passages - see especially verses 4:7-8 and 5:1.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211303Z" creationid="wellingtontf" creationdate="20180802T211303Z">
+        <seg>o Targum de Jonathan em sua versão das passagens - ver especialmente os versos 4: 7-8 e 5: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the UNESCO report on the question, “Le racisme devant la Science” (Paris, 1973).</seg>
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T223905Z" creationid="wellingtontf" creationdate="20180801T223905Z">
         <seg>o relatório da UNESCO sobre a questão “Le racisme devant la Science” (Paris, 1973).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>threatened with death by God simply because he had neglected to practice circumcision (cf.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211742Z" creationid="wellingtontf" creationdate="20180802T211742Z">
+        <seg>ameaçado de morte por Deus simplesmente porque ele havia negligenciado a prática da circuncisão (cf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19090,6 +20138,14 @@
       </tuv>
       <tuv lang="PT" changeid="wellingtontf" changedate="20180801T214450Z" creationid="wellingtontf" creationdate="20180801T214450Z">
         <seg>estava pronto para se engajar em um diálogo significativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>which has the merit of assessing all the import of parallelism for exegesis).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="wellingtontf" changedate="20180802T211250Z" creationid="wellingtontf" creationdate="20180802T211250Z">
+        <seg>que tem o mérito de avaliar toda a importância do paralelismo para exegese).</seg>
       </tuv>
     </tu>
     <tu>
